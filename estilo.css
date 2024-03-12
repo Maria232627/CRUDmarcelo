@@ -1,0 +1,21 @@
+.imgCapa{
+    width:50%;
+    height:50%;
+}
+.texto{
+    text-align: justify;
+    border: solid;
+}
+.card-footer{
+    text-align: center;
+}
+#erroDescricao{
+    display: none;
+    font-size: 0.8em;
+}
+#erroDescricao.visible{
+    display: block;
+}
+input.invalid{
+    border-color: red;
+}
